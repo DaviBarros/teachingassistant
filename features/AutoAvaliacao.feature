@@ -6,3 +6,7 @@ Funcionalidade: Cadastrar Produtos
 	Eu desejo buscar produtos eletrônicos
 	Para colocá-los em um carrinho e realizar compras
 
+Funcionalidade: Quando não há discrepância 
+        Como desenvolvedor
+        Eu desejo realizar o commit normalmente
+        Para subir as alterações nno repositório
