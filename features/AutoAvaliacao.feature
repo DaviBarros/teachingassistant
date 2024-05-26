@@ -9,6 +9,6 @@ Funcionalidade: Cadastrar Produtos
 Funcionalidade: Quando não há discrepância 
         Como desenvolvedor
         Eu desejo realizar o commit normalmente
-        Para subir as alterações nno repositório
+        Para subir as alterações no repositório
 	//fix 1
         //fix 2
